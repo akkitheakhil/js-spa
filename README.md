@@ -1,4 +1,4 @@
-# js-spa
+# JS-SPA
 
 A Vanilla JavaScript Single Page Application framework
 
