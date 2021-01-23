@@ -1,0 +1,25 @@
+/* Main Css file */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #34495e;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    font-size: 2em;
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: #2c3e50;
+}
